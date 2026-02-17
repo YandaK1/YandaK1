@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm [Your Name]
+💼 Quality Engineer | Automation Enthusiast | Problem Solver
 
-<!--
-**YandaK1/YandaK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Quality Engineer focused on improving software reliability, automation efficiency, and overall product quality.
 
-Here are some ideas to get you started:
+🧠 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Test automation development
+
+Functional and regression testing
+
+API testing
+
+Improving software quality processes
+
+Writing clean and maintainable automation scripts
+
+💻 Technologies & Tools
+
+JavaScript
+
+TypeScript
+
+Playwright
+
+Git & GitHub
+
+CI/CD tools
+
+📚 Currently Learning
+
+Advanced automation frameworks
+
+Performance testing
+
+Programming fundamentals
+
+🎯 Goal
+
+To continuously improve software quality and build reliable automation solutions.
+
+🧩 Fun Fact
+
+I don’t just find bugs — I hunt them. 🐛
