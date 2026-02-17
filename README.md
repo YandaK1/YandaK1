@@ -21,7 +21,7 @@ JavaScript
 ![image alt](https://github.com/YandaK1/YandaK1/blob/1d247ec81709cca295cbb9f0b96379c74e641191/free-typescript-3d-icon-png-download-7577992.webp)
 TypeScript
 
-![image alt](https://github.com/YandaK1/YandaK1/blob/81e71c168c41c8ab5c3c88478a2459f31fed45ca/free-github-3d-icon-png-download-2447911.webp)
+![image alt](https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1766963466389)
 Playwright
 
 ![image alt](https://github.com/YandaK1/YandaK1/blob/c8945f8bc20642fc8ec71e9d14e5305126f304d1/free-github-3d-icon-png-download-2447911.webp)
