@@ -17,7 +17,7 @@ Writing clean and maintainable automation scripts
 
 💻 Technologies & Tools
 
-JavaScript
+![image alt](https://github.com/YandaK1/YandaK1/blob/072ef21264870a88ae77d83ac914a44e7e8cac5a/free-javascript-3d-icon-png-download-7577991.webp) JavaScript
 
 TypeScript
 
