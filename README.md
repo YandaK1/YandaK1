@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm Yanda Kiviet
 💼 Quality Engineer | Automation Enthusiast | Problem Solver
 
 I am a Quality Engineer focused on improving software reliability, automation efficiency, and overall product quality.
