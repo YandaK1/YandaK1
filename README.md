@@ -1,5 +1,5 @@
 👋**Hi, I'm Yanda Kiviet**
-💼 **Quality Engineer | Automation Enthusiast | Problem Solver**
+💼 **Quality Engineering Sprinter | Automation Enthusiast | Problem Solver**
 
 I am a Quality Engineering student focused on improving software reliability, automation efficiency, and overall product quality.
 
